@@ -74,7 +74,7 @@ The general algorithm is as follows:
 
 The data is divided as homogeneously as possible, that is, each partition contains approximately the same amount of data. As a graphic way of representing this, we can show the example of the following figure [5]:
 
-
+![alt text](https://github.com/Juan-Ignacio-Ortega/DecisitionTree/blob/main/KFold.jpeg?raw=true)
 
 Figure 1. Example of the distribution of tests for a '10-Fold' cross-validation [5].
 
@@ -97,7 +97,7 @@ There can only be four different types of results that give the confusion matrix
 - False positive (FP) - There is a negative value despite having predicted a positive value.
 - False negative (FN) - There is a positive value despite having predicted a negative value [5].
 
-
+![alt text](https://github.com/Juan-Ignacio-Ortega/DecisitionTree/blob/main/MatrizDConfusion.png?raw=true)
 
 Figure 2. Confusion matrix for error calculation [5].
 
