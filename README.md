@@ -1,11 +1,11 @@
 # DecisitionTree
 
 ## 1 - Code and Description
-###Code
+### Code
 
 https://github.com/Juan-Ignacio-Ortega/DecisitionTree/blob/main/DecisionTreeCode_JIOG.py
 
-###Description
+### Description
 
 https://github.com/Juan-Ignacio-Ortega/DecisitionTree/blob/main/DecisionTreeDescription_JIOG.ipynb
 
