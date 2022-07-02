@@ -181,12 +181,17 @@ The value after the ± is called the margin of error [4].
 ## 4 - References
 [1] 1.10. Decision Trees. (s. f.). scikit-learn. Recuperado 10 de junio de 2022, de https://scikitlearn/
 stable/modules/tree.html
+
 [2] Bhardwaj, R., & Vatta, S. (2013). Implementation of ID3 algorithm. International Journal of
 Advanced Research in Computer Science and Software Engineering, 3(6).
+
 [3] Gómez, P. M. (2021). Drugs A, B, C, X, Y for decision trees [Data set].
+
 [4] Intervalo de Conanza. (s. f.). Disfrutalasmatematicas.com. Recuperado 10 de junio de 2022,
 de http://www.disfrutalasmatematicas.com/datos/intervalo-conanza.html
+
 [5] M. A. Aceves Fernández, Inteligencia Articial para programadores con prisa. UNIVERSO de
 LETRAS, 2021.
+
 [6] Quinlan, J. R. (1996). Learning decision tree classiers. ACM Computing Surveys (CSUR),
 28(1), 71-72.
