@@ -2,7 +2,10 @@
 
 ## 1 - Code and Description
 ###Code
+https://github.com/Juan-Ignacio-Ortega/DecisitionTree/blob/main/DecisionTreeCode_JIOG.py
+
 ###Description
+https://github.com/Juan-Ignacio-Ortega/DecisitionTree/blob/main/DecisionTreeDescription_JIOG.ipynb
 
 ## 2 - Introduction
 Inductive inference is the process of going from concrete examples to general models. In one form, the goal is to learn to classify objects or situations by analyzing a set of instances whose classes are known [6].
